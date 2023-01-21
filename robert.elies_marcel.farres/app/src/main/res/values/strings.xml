@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="repeated_toast">THIS QUESTION HAS BEEN DONE BEFORE</string>
+    <string name="registration_message">Welcome! Please enter the name of the players</string>
+    <string name="cheat_button">-cheat-</string>
+    <string name="back_button">-back-</string>
+    <string name="p1">PLAYER ONE: </string>
+    <string name="p2">PLAYER TWO: </string>
+    <string-array name="all_questions">
+        <item name="question_1">Canberra is the capital of Australia?</item>
+        <item name="question_2">Is Paris a country?</item>
+        <item name="question_3">Italian is the most spoken language?</item>
+        <item name="question_4">The highest mountain in the world is Mount Everest?</item>
+        <item name="question_5">The USA has 50 states?</item>
+        <item name="question_6">India has the largest population?</item>
+    </string-array>
+
+    <string name="finish_button">Finish Test </string>
+
+</resources>
